@@ -256,7 +256,7 @@ try {
     );
     }//GEN-LAST:event_btnprosesActionPerformed
     }  
-    private void txtBiayaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtBiayaActionPerformed                                    
+    private void txtBiayaActionPerformed(java.awt.event.ActionEvent evt) {                                                                             
     try {
     } catch (NumberFormatException e) {
         javax.swing.JOptionPane.showMessageDialog(
@@ -265,7 +265,7 @@ try {
             "Input Tidak Valid",
             javax.swing.JOptionPane.ERROR_MESSAGE
         );                 
-    }//GEN-LAST:event_txtBiayaActionPerformed
+    }                                        
     }
     private void btnresetActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnresetActionPerformed
     txtnama.setText("");
