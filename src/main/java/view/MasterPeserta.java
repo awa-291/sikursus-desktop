@@ -2,6 +2,7 @@ package view;
 
 import dao.PesertaDAO;
 import model.Peserta;
+import report.ReportService;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -245,9 +246,7 @@ public class MasterPeserta extends JFrame {
         btnHapus.addActionListener(e -> btnHapusActionPerformed());
         btnReset.addActionListener(e -> btnResetActionPerformed());
         btnCari.addActionListener(e -> btnCariActionPerformed());
-        btnCetak.addActionListener(e -> JOptionPane.showMessageDialog(this, 
-                "Modul Laporan (JasperReports) akan diaktifkan pada Pertemuan 11/12.", 
-                "Informasi", JOptionPane.INFORMATION_MESSAGE));
+        btnCetak.addActionListener(e -> btnCetakActionPerformed());
 
         // Event Klik Baris Tabel
         tblPeserta.addMouseListener(new MouseAdapter() {
@@ -538,6 +537,10 @@ public class MasterPeserta extends JFrame {
         txtCari.setText("");
         loadTable();
         clearForm();
+    }
+
+    private void btnCetakActionPerformed() {
+        ReportService.tampilkanLaporanPeserta();
     }
 
     public static void main(String[] args) {

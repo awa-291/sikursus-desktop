@@ -1,8 +1,10 @@
 C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\util\UserSeeder.java
+C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\report\ReportService.java
 C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\app\DemoKursus.java
 C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\latihan\LatihanBiayaKursus.java
 C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\model\Kursus.java
 C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\view\FormPendaftaranKursus.java
+C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\view\PembayaranFrame.java
 C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\latihan\LatihanTerarah.java
 C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\view\LoginFrame.java
 C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\model\Orang.java
@@ -24,6 +26,7 @@ C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\c
 C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\view\InstrukturFrame.java
 C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\util\WindowManager.java
 C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\model\Instruktur.java
+C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\view\PendaftaranFrame.java
 C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\latihan\LuasDanKelilingBidangDatar.java
 C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\view\MasterPeserta.java
 C:\Users\ACER\Documents\NetBeansProjects\sikursus-desktop-master\src\main\java\app\Main.java
